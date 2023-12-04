@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.port": 5501,
+    "appService.defaultWebAppToDeploy": "/subscriptions/0651ddab-03e2-44ba-a7af-24bc0527bb51/resourceGroups/Versanteconnect-RG/providers/Microsoft.Web/sites/Versante-Frontend",
+    "appService.deploySubpath": "."
+}
